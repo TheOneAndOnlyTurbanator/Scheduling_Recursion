@@ -1,5 +1,5 @@
 // main() program to test your schedule function.
-// Feel free to modify this program in any way you need for testing.
+// Feel free to modify this program in any way you need for testing
 // It will not be graded. 
 #include <set>
 #include <iostream>
